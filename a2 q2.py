@@ -1,0 +1,7 @@
+sid=int(input())
+name=input()
+dep_name=input()
+cgpa==float(input())
+print('hey ,',name,'here!')
+print('my sid is',sid)
+print('i am from',dep_name,'department and my cgpa is',cgpa)
